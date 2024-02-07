@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(27, 27, 49);
+}
+
+img {
+    height: 612px;
+    width: 100%;
+    margin-top: -107px;
+}
+
+
+.imgdiv {
+    width: 318px;
+    height: 505px;
+    border-radius: 143px 145px 0px 0px;
+    -webkit-border-radius: 143px 145px 0px 0px;
+    -moz-border-radius: 143px 145px 0px 0px;
+    background-color: rgb(53, 105, 153);
+}
+
+
+
